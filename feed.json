@@ -1,0 +1,92 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Mediumish",
+    "home_page_url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/",
+    "feed_url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/feed.json",
+    "description": "Blog example for Mediumish theme with VuePress",
+    "items": [
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2018/11/07/frontmatter-in-vuepress-3/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2018/11/07/frontmatter-in-vuepress-3/",
+            "title": "VuePress also supports Json",
+            "date_modified": "2018-11-06T22:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-3/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-3/",
+            "title": "World Health Organization officials criticized for slow response",
+            "summary": "The number of confirmed COVID-19 cases jumped.",
+            "date_modified": "2019-02-25T22:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2018/11/07/frontmatter-in-vuepress/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2018/11/07/frontmatter-in-vuepress/",
+            "title": "Magical nature, God is perfect",
+            "summary": "I have travelled for so long that I can't even remember my own city.",
+            "date_modified": "2018-11-06T22:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-4/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-4/",
+            "title": "Markdown Slot 4",
+            "summary": "Implementing markdown files, provders of metadata.",
+            "date_modified": "2019-02-25T22:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot/",
+            "title": "Why do I need Markdown Slot",
+            "summary": "VuePress implements a content distribution API for Markdown.",
+            "date_modified": "2019-02-25T22:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-2/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-2/",
+            "title": "Migrants clash with Greek police at border after Turkey opens floodgates",
+            "summary": "Greek police fired tear gas to repel hundreds of migrants.",
+            "date_modified": "2019-02-25T22:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme-2/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme-2/",
+            "title": "Wonderful diversity of plants and animals",
+            "summary": "The geographical distribution of the land within the tropics.",
+            "date_modified": "2019-05-05T21:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme-4/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme-4/",
+            "title": "Leaving Las Vegas",
+            "summary": "We find that Nature has made many wonderful provisions.",
+            "date_modified": "2019-05-05T21:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/01/28/whats-the-most-beautiful-website-world/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/01/28/whats-the-most-beautiful-website-world/",
+            "title": "What's the most beautiful website in the world",
+            "summary": "Any website that uses a static generator.",
+            "date_modified": "2020-01-27T22:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/01/01/writing-a-vuepress-theme-3/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/01/01/writing-a-vuepress-theme-3/",
+            "title": "Welcome to Mediumish",
+            "summary": "Journalism is the production and distribution of reports on events.",
+            "date_modified": "2019-12-31T22:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/01/29/hello-world/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/01/29/hello-world/",
+            "title": "Hello, World",
+            "summary": "For a moment she wondered how she had happened to wake so early.",
+            "date_modified": "2020-01-28T22:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme/",
+            "title": "Writing a vuepress theme 1",
+            "summary": "Mediumish is the best VuePress theme Medium styled.",
+            "date_modified": "2019-05-05T21:00:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Mediumish</title>
+        <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/</link>
+        <description>Blog example for Mediumish theme with VuePress</description>
+        <lastBuildDate>Mon, 02 Mar 2020 14:38:43 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+        <atom:link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[VuePress also supports Json]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2018/11/07/frontmatter-in-vuepress-3/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2018/11/07/frontmatter-in-vuepress-3/</guid>
+            <pubDate>Tue, 06 Nov 2018 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Health Organization officials criticized for slow response]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-3/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-3/</guid>
+            <pubDate>Mon, 25 Feb 2019 22:00:00 GMT</pubDate>
+            <description><![CDATA[The number of confirmed COVID-19 cases jumped.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Magical nature, God is perfect]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2018/11/07/frontmatter-in-vuepress/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2018/11/07/frontmatter-in-vuepress/</guid>
+            <pubDate>Tue, 06 Nov 2018 22:00:00 GMT</pubDate>
+            <description><![CDATA[I have travelled for so long that I can't even remember my own city.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Markdown Slot 4]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-4/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-4/</guid>
+            <pubDate>Mon, 25 Feb 2019 22:00:00 GMT</pubDate>
+            <description><![CDATA[Implementing markdown files, provders of metadata.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Why do I need Markdown Slot]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot/</guid>
+            <pubDate>Mon, 25 Feb 2019 22:00:00 GMT</pubDate>
+            <description><![CDATA[VuePress implements a content distribution API for Markdown.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Migrants clash with Greek police at border after Turkey opens floodgates]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-2/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-2/</guid>
+            <pubDate>Mon, 25 Feb 2019 22:00:00 GMT</pubDate>
+            <description><![CDATA[Greek police fired tear gas to repel hundreds of migrants.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Wonderful diversity of plants and animals]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme-2/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme-2/</guid>
+            <pubDate>Sun, 05 May 2019 21:00:00 GMT</pubDate>
+            <description><![CDATA[The geographical distribution of the land within the tropics.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Leaving Las Vegas]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme-4/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme-4/</guid>
+            <pubDate>Sun, 05 May 2019 21:00:00 GMT</pubDate>
+            <description><![CDATA[We find that Nature has made many wonderful provisions.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[What's the most beautiful website in the world]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/01/28/whats-the-most-beautiful-website-world/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/01/28/whats-the-most-beautiful-website-world/</guid>
+            <pubDate>Mon, 27 Jan 2020 22:00:00 GMT</pubDate>
+            <description><![CDATA[Any website that uses a static generator.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Welcome to Mediumish]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/01/01/writing-a-vuepress-theme-3/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/01/01/writing-a-vuepress-theme-3/</guid>
+            <pubDate>Tue, 31 Dec 2019 22:00:00 GMT</pubDate>
+            <description><![CDATA[Journalism is the production and distribution of reports on events.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Hello, World]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/01/29/hello-world/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/01/29/hello-world/</guid>
+            <pubDate>Tue, 28 Jan 2020 22:00:00 GMT</pubDate>
+            <description><![CDATA[For a moment she wondered how she had happened to wake so early.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Writing a vuepress theme 1]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme/</guid>
+            <pubDate>Sun, 05 May 2019 21:00:00 GMT</pubDate>
+            <description><![CDATA[Mediumish is the best VuePress theme Medium styled.]]></description>
+        </item>
+    </channel>
+</rss>
